@@ -11,14 +11,14 @@ int main(void)
 {
 	char ph;
 
-	for (ph = 'z'; ph >= 'a'; ch--)
+	for (ph = 'z'; ph >= 'a'; ph--)
 	{
 
 		putchar(ph);
 
 	}
 
-	putchar("\n");
+	putchar('\n');
 
 	return (0);
 
