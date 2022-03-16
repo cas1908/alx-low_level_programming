@@ -5,12 +5,11 @@
  *
  * @i - is an integer
  *
- * Return: Always 0 (succes#include "main.h"
+ * Return: Always 0 (succes)
  */
 
 void positive_or_negative(int i)
 {
-	int i;
 
 	if (i > 0)
 	{
