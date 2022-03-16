@@ -3,7 +3,7 @@
 /**
  * positive_or_negative - Testing if a number is positive or negative
  *
- * @i - is an integer
+ * @i: is an integer
  *
  * Return: Always 0 (succes)
  */
