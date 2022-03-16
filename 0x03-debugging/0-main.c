@@ -3,6 +3,8 @@
 /**
  * positive_or_negative - Testing if a number is positive or negative
  *
+ * n - is an integer
+ *
  * Return: Always 0 (succes#include "main.h"
  */
 
@@ -15,6 +17,7 @@ void positive_or_negative(int i)
 		printf("%d is positive\n", i);
 		return (0);
 	}
+
 	else (n < 0)
 	{
 		printf("%d is negative\n", i);
