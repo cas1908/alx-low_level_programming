@@ -6,7 +6,7 @@
 */
 
 int main(void)
-asm({
+asm('{
 	int i;
 
 	i = 0;
